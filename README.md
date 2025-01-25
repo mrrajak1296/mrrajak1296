@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrajak1296&label=Profile%20views&color=0e75b6&style=flat" alt="mrrajak1296" /> </p>
 
-- 🔭 I’m currently working on [Automation Test Store Automate & manual Testing](https://github.com/mrrajak1296/Automation)
-
 - 🌱 I’m currently learning **Software Development Engineer Tester (SDET)**
+
+- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [Manual Testing Kazam EV Tech](https://github.com/mrrajak1296/Kazam-EV-QA-Manual-Tesing)
+
+- 🔭 I’m recently working on [Automation Test Store Automate & manual Testing](https://github.com/mrrajak1296/Automation)
 
 - 🔭 I’m recently working on [Reebok website manual testing](https://github.com/mrrajak1296/mrrajak1296)
 
@@ -13,7 +16,7 @@
 
 - 📫 How to reach me **mrrajak1296@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dv3MwIpvlsek-qSZKJv6r7I92Ua_x9TU/view?usp=sharing](https://drive.google.com/file/d/1dv3MwIpvlsek-qSZKJv6r7I92Ua_x9TU/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1xYfRdZmgKNZUboPyzbPSXw2CG2KXEUiN/view?usp=sharing
 
 - ⚡ Fun fact **I am Funny 😅**
 
