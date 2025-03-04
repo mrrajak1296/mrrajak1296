@@ -10,7 +10,7 @@
 
 - 🔭 I’m recently working on [Automation Test Store Automate & manual Testing](https://github.com/mrrajak1296/Automation)
 
-- 🔭 I’m recently working on [Reebok website manual testing](https://github.com/mrrajak1296/mrrajak1296)
+- 🔭 I’m recently working on [Reebok website manual testing][(https://github.com/mrrajak1296/mrrajak1296](https://github.com/mrrajak1296/ReebokClone-ManualTesting))
 
 - 💬 Ask me about **Hi, I’m anil rajak 💻 Aspiring Software Development Engineer in Test (SDET) 🎓 BE in Electrical Engineering | MBA in HR & Finance 🚀 Skilled in Cypress, Selenium, JavaScript, Java, HTML, CSS, Manual Testing, Automation, and DSA 📚 Currently honing my skills at Masai School 🔍 Passionate about building robust, scalable, and efficient testing solutions to improve software quality. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.**
 
